@@ -5,7 +5,7 @@
 
 
 ## Resources:
-movies_metadata.csv
-ratings.csv
-wikipedia.movies.json
-note: files are stored in google drive due to large file size, and the shared-like is https://drive.google.com/drive/folders/1e3ESjmDZLFLbkudwltawU3UXJNAwhcQ7?usp=sharing
+* movies_metadata.csv
+* ratings.csv
+* wikipedia.movies.json
+* note: files are stored in google drive due to large file size, and the shared-like is https://drive.google.com/drive/folders/1e3ESjmDZLFLbkudwltawU3UXJNAwhcQ7?usp=sharing
