@@ -5,7 +5,6 @@ config.py
 movies_metadata.csv
 ratings.csv
 wikipedia.movies.json
-Exported_ETL_Data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
